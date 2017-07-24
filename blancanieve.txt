@@ -5,4 +5,7 @@ INTRODUCCION
 Hola hoy usaremos este cuento para poder probar el uso de git en windows con la consola de comandos.
 
 CAPITULO 1
-este capitulo lo utilizaremos para poder usar el comando 
+este capitulo lo utilizaremos para poder usar el comando
+
+CAPITULO 2
+en este capitulo pondremos a prueba el uso de la funcion rama 
