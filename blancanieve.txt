@@ -1,2 +1,5 @@
 TITULO
 BLANCA NIEVE Y LOS SIETE ENENITOS
+
+INTRODUCCION
+Hola hoy usaremos este cuento para poder probar el uso de git en windows con la consola de comandos.
